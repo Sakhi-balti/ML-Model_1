@@ -2,4 +2,4 @@
 
 These is simple machine learning model at my starting stage .
 <br>
-when i starte learning ML and DL.
+when i starte learning ML , DL and NLP.
